@@ -1,0 +1,30 @@
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame\TheMemoryGame\bin\Debug\TheMemoryGame.exe.config
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame\TheMemoryGame\obj\Debug\TheMemoryGame.csprojResolveAssemblyReference.cache
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame\TheMemoryGame\obj\Debug\TheMemoryGame.Form1.resources
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame\TheMemoryGame\obj\Debug\TheMemoryGame.Properties.Resources.resources
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame\TheMemoryGame\obj\Debug\TheMemoryGame.csproj.GenerateResource.Cache
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame\TheMemoryGame\bin\Debug\TheMemoryGame.exe
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame\TheMemoryGame\bin\Debug\TheMemoryGame.pdb
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame\TheMemoryGame\obj\Debug\TheMemoryGame.exe
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame\TheMemoryGame\obj\Debug\TheMemoryGame.pdb
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame c#\TheMemoryGame\bin\Debug\TheMemoryGame.exe.config
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.exe
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.pdb
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame c#\TheMemoryGame\bin\Debug\TheMemoryGame.exe
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame c#\TheMemoryGame\bin\Debug\TheMemoryGame.pdb
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.Form1.resources
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.Properties.Resources.resources
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.csproj.GenerateResource.Cache
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.Features.resources
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.csprojAssemblyReference.cache
+C:\Users\ka\Desktop\C, C++ Projects\from Visual Studio 2015\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\ka\Desktop\TheMemoryGame c#\TheMemoryGame\bin\Debug\TheMemoryGame.exe.config
+C:\Users\ka\Desktop\TheMemoryGame c#\TheMemoryGame\bin\Debug\TheMemoryGame.exe
+C:\Users\ka\Desktop\TheMemoryGame c#\TheMemoryGame\bin\Debug\TheMemoryGame.pdb
+C:\Users\ka\Desktop\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.csprojResolveAssemblyReference.cache
+C:\Users\ka\Desktop\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.Features.resources
+C:\Users\ka\Desktop\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.Form1.resources
+C:\Users\ka\Desktop\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.Properties.Resources.resources
+C:\Users\ka\Desktop\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.csproj.GenerateResource.Cache
+C:\Users\ka\Desktop\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.exe
+C:\Users\ka\Desktop\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.pdb

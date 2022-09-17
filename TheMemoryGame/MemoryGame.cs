@@ -16,9 +16,9 @@ using System.Windows.Forms;
 
 namespace TheMemoryGame
 {
-    public partial class Form1 : Form
+    public partial class MemoryGame : Form
     {
-        public Form1()
+        public MemoryGame()
         {
             InitializeComponent();
         }
@@ -406,7 +406,7 @@ namespace TheMemoryGame
             if (whiteButtonPressCounter == 3)
             {
                 changeRegisteredBoxes();
-                MessageBox.Show("You lost total 3 points and game over!\nYour ending point is : " + points.ToString());
+                MessageBox.Show("You lost 3 points in total and game over!\nYour final point is : " + points.ToString());
                 await Task.Delay(1000);
                 convertButtonsColorOriginal();
                 points = 0;

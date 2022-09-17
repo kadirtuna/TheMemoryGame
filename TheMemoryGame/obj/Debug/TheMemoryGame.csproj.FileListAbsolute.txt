@@ -28,3 +28,15 @@ C:\Users\ka\Desktop\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.Prope
 C:\Users\ka\Desktop\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.csproj.GenerateResource.Cache
 C:\Users\ka\Desktop\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.exe
 C:\Users\ka\Desktop\TheMemoryGame c#\TheMemoryGame\obj\Debug\TheMemoryGame.pdb
+C:\Users\ka\Desktop\GitHub Projects\TheMemoryGame\TheMemoryGame\bin\Debug\TheMemoryGame.exe.config
+C:\Users\ka\Desktop\GitHub Projects\TheMemoryGame\TheMemoryGame\bin\Debug\TheMemoryGame.exe
+C:\Users\ka\Desktop\GitHub Projects\TheMemoryGame\TheMemoryGame\bin\Debug\TheMemoryGame.pdb
+C:\Users\ka\Desktop\GitHub Projects\TheMemoryGame\TheMemoryGame\obj\Debug\TheMemoryGame.csproj.AssemblyReference.cache
+C:\Users\ka\Desktop\GitHub Projects\TheMemoryGame\TheMemoryGame\obj\Debug\TheMemoryGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ka\Desktop\GitHub Projects\TheMemoryGame\TheMemoryGame\obj\Debug\TheMemoryGame.Features.resources
+C:\Users\ka\Desktop\GitHub Projects\TheMemoryGame\TheMemoryGame\obj\Debug\TheMemoryGame.Properties.Resources.resources
+C:\Users\ka\Desktop\GitHub Projects\TheMemoryGame\TheMemoryGame\obj\Debug\TheMemoryGame.csproj.GenerateResource.cache
+C:\Users\ka\Desktop\GitHub Projects\TheMemoryGame\TheMemoryGame\obj\Debug\TheMemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\ka\Desktop\GitHub Projects\TheMemoryGame\TheMemoryGame\obj\Debug\TheMemoryGame.exe
+C:\Users\ka\Desktop\GitHub Projects\TheMemoryGame\TheMemoryGame\obj\Debug\TheMemoryGame.pdb
+C:\Users\ka\Desktop\GitHub Projects\TheMemoryGame\TheMemoryGame\obj\Debug\TheMemoryGame.MemoryGame.resources

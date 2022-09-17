@@ -3,7 +3,7 @@ using System.Drawing;
 
 namespace TheMemoryGame
 {
-    partial class Form1
+    partial class MemoryGame
     {
         /// <summary>
         /// Required designer variable.
@@ -251,7 +251,7 @@ namespace TheMemoryGame
             this.label1.Size = new System.Drawing.Size(0, 13);
             this.label1.TabIndex = 18;
             // 
-            // Form1
+            // MemoryGame
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -275,8 +275,12 @@ namespace TheMemoryGame
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Name = "Form1";
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
+            this.Name = "MemoryGame";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "The Memory Game";
+            this.TopMost = true;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
